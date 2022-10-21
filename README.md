@@ -1,3 +1,5 @@
 # Python Basics - Course Practices
 
-Lesson-wise code examples will be uploaded here. 
+Lesson-wise code sample and modularized examples.
+
+* Nine weeks of learning plan - Beginner focused. 
