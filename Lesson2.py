@@ -15,9 +15,25 @@ for x in range(7):
     Numbers 
 '''
 
-print(10 * 99)
-print(10 + 20 / 4)  
 
+print(10 * 50 + 6) 
+print(10 + 20)
+print(20 - 5)
+
+print(20 / 5)
+
+
+
+
+intgr = 1000000
+
+print("Age of my university", 230)  # integers
+
+print("Age of our world", 100000000000000)  # long_integer
+
+print("Division of rafi and Masum's age", 30/27) # float
+
+print("Age of anyone") # string
 
 
 
@@ -25,7 +41,8 @@ print(10 + 20 / 4)
     Variables 
 '''
 
-age = 10
 age = 27
-teenAge = 13.5
-print("Adding two different numbers with python -> ", "10 + 11.5 =", age + teenAge)
+
+teenAgeVar = 13.5
+
+print("Adding two different numbers with python -> ", "27 + 13.5 =", age + teenAge)
