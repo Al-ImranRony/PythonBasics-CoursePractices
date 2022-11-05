@@ -45,4 +45,4 @@ age = 27
 
 teenAgeVar = 13.5
 
-print("Adding two different numbers with python -> ", "27 + 13.5 =", age + teenAge)
+print("Adding two different numbers with python -> ", "27 + 13.5 =", age + teenAgeVar)
