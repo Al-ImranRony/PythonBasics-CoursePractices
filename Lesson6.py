@@ -2,6 +2,11 @@
 Function in python
 '''
 
+print()
+type()
+int()
+float()
+
 
 def showSentence(c):
     count = c
