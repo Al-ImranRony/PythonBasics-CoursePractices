@@ -2,11 +2,6 @@
 Function in python
 '''
 
-print()
-type()
-int()
-float()
-
 
 def showSentence(c):
     count = c
@@ -20,23 +15,16 @@ print(returnedC)
 
 
 
+givenWord = "AbrakaDabra"
 
+def maxLetterOfGivenWord(word)-> str:
+    maxLetter = givenWord[0]
+    for letter in word:
+        # print(letter)
+        if letter > maxLetter:
+            maxLetter = letter
 
+    return maxLetter
 
-
-
-
-# givenWord = "AbrakaDabra"
-
-# maxLetter = givenWord[0]
-
-# def maxLetterOfGivenWord(word)-> str:
-#     for letter in word:
-#         print(letter)
-#         if letter > maxLetter:
-#             maxLetter = letter
-
-#     return maxLetter
-
-# s = maxLetterOfGivenWord(givenWord)
-# print(s)
+s = maxLetterOfGivenWord(givenWord)
+print("The max valued letter we have found is:", s)
