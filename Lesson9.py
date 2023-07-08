@@ -3,9 +3,9 @@ List in Python
 '''
 
 
-# Declare, accessing, change
+# Declare, access, change
 
-#                0         1        2        3        4
+# IDs/Indexes    0         1        2        3        4
 khadokList = ["Forhad", "Zahed", "Shakil", "Rafi", "Zuthi"]
 
 khadokNumber = [11, 222, 33, 444, 55]
